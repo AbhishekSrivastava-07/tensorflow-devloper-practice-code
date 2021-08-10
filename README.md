@@ -6,3 +6,4 @@ This contain all practice code in tf:
  2) Regression
  3) Classification
  4) Computer vision and CNN 
+
